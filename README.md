@@ -1,2 +1,2 @@
 # Machine-Learning
-Puedes encontrar todos mis proyectos realizados en el área de Machine Learning con Python
+Projects carried out in the area of ​​Machine Learning with Python, NUmpy, TensorFlow, Scikit-Learn
